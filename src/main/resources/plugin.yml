@@ -1,0 +1,4 @@
+name: Eventaya
+version: '${project.version}'
+main: com.mrvolty.eventaya.Main
+api-version: '1.21'
